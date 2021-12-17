@@ -3,9 +3,15 @@
     <!--默认配置 -->
     <default-config>
         <property name="driverClass">com.mysql.jdbc.Driver</property>
+<<<<<<< HEAD
         <property name="jdbcUrl">jdbc:mysql://localhost:3306/property?characterEncoding=utf8&amp;useSSL=false</property>
         <property name="user">root</property>
         <property name="password">123456</property>
+=======
+        <property name="jdbcUrl">jdbc:mysql://localhost:3306/xiao?characterEncoding=utf8&amp;useSSL=false</property>
+        <property name="user">root</property>
+        <property name="password">1234</property>
+>>>>>>> a46b91052cac635575bdf0ccee2178f7635d39c8
         <property name="initialPoolSize">10</property>
         <property name="maxIdleTime">30</property>
         <property name="maxPoolSize">50</property>
@@ -15,9 +21,15 @@
     <!--配置连接池mysql -->
     <named-config name="test_c3p0">
         <property name="driverClass">com.mysql.jdbc.Driver</property>
+<<<<<<< HEAD
         <property name="jdbcUrl">jdbc:mysql://localhost:3306/hello</property>
         <property name="user">root</property>
         <property name="password">root</property>
+=======
+        <property name="jdbcUrl">jdbc:mysql://localhost:3306/xiao?characterEncoding=utf8&amp;useSSL=false</property>
+        <property name="user">root</property>
+        <property name="password">1234</property>
+>>>>>>> a46b91052cac635575bdf0ccee2178f7635d39c8
         <property name="initialPoolSize">10</property>
         <property name="maxIdleTime">30</property>
         <property name="maxPoolSize">100</property>

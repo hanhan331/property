@@ -7,6 +7,7 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
+<<<<<<< HEAD
 <head>
 
   <title>登录</title>
@@ -54,4 +55,12 @@
 </section>
 
 </body>
+=======
+  <head>
+    <title>$Title$</title>
+  </head>
+  <body>
+  $END$
+  </body>
+>>>>>>> a46b91052cac635575bdf0ccee2178f7635d39c8
 </html>
