@@ -3,8 +3,8 @@ package com.property.test.testdao;
 import com.property.dao.entity.Sys;
 import com.property.dao.impl.SysDao;
 import org.junit.Before;
-import org.junit.jupiter.api.DynamicTest;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
+
 
 import java.util.List;
 

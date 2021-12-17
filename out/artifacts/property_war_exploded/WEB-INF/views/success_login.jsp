@@ -18,10 +18,10 @@
     </div>
    <div name="q2">
        <c:if test="${current_user.pri>=2}">
-           <a href="">...系统</a>
+           <a href="${pageContext.request.contextPath}/findAll">...系统</a>
        </c:if>
        <c:if test="${current_user.pri<2}">
-           
+
        </c:if>
    </div>
 

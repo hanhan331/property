@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class DBUtil {
-    private static ComboPooledDataSource dataSource = new ComboPooledDataSource("test_c3p0");
+    private static ComboPooledDataSource dataSource = new ComboPooledDataSource();
     public static Connection getConnection(){
         Connection connection = null;
         try {

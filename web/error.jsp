@@ -14,16 +14,16 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-<<<<<<< HEAD
+
     <title>ERROE</title>
 </head>
 <body>
 <h1>ERROR</h1>
-=======
-    <title>错误页面</title>
+
+
 </head>
-<body>
+
 <h1>错了傻逼</h1>
->>>>>>> a46b91052cac635575bdf0ccee2178f7635d39c8
+ a46b91052cac635575bdf0ccee2178f7635d39c8
 </body>
 </html>
